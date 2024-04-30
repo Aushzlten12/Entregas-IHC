@@ -1,0 +1,12 @@
+
+# Configuración básica para un proyecto estático en Railway
+
+# Nombre de la aplicación en Railway
+name = "mi-proyecto-ihc"
+
+# Rutas de compilación
+[build]
+# No necesitas ningún comando de compilación para un proyecto estático
+command = "echo 'Proyecto estático, no se requiere compilación'"
+# Carpeta pública donde se encuentran tus archivos estáticos
+output = "./"
