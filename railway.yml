@@ -1,3 +1,0 @@
-services:
-  web:
-    image: "railway/static:1.0.0"
